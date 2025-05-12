@@ -3,8 +3,7 @@
 #include "INTERNET.h"
 
 //? REDE PARA SE CONECTAR
-const char *SSID = "SALA 09";   //* Nome da rede
-const char *SENHA = "info@134"; //*Senha da rede
+
 
 //? CONSTANTE DE TEMPO
 const unsigned long tempodeconexao = 20000;
